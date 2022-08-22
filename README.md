@@ -17,4 +17,7 @@ The project will explore the bike-sharing data in three large cities: Chicago, N
 
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+1. [Udacity Nanodegree Program](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
+2. [pandas documentation](https://pandas.pydata.org/pandas-docs/stable/reference/frame.html#dataframe)
+3. [Stack Overflow](https://stackoverflow.com)
+4. [Markdown Guide](https://www.markdownguide.org/basic-syntax)
