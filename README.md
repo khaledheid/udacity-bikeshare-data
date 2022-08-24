@@ -20,6 +20,7 @@ The data randomly selected for the first six months of 2017 for all three cities
 
 ### Credits
 1. [Udacity Nanodegree Program](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
-2. [pandas documentation](https://pandas.pydata.org/pandas-docs/stable/reference/frame.html#dataframe)
-3. [Stack Overflow](https://stackoverflow.com)
-4. [Markdown Guide](https://www.markdownguide.org/basic-syntax)
+2. [Python documentation](https://docs.python.org/3/index.html)
+3. [pandas documentation](https://pandas.pydata.org/pandas-docs/stable/reference/frame.html#dataframe)
+4. [Stack Overflow](https://stackoverflow.com)
+5. [Markdown Guide](https://www.markdownguide.org/basic-syntax)
