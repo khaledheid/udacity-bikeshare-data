@@ -4,9 +4,11 @@ Created on 16 August 2022
 <br>
 
 ### Description
-This project will use data provided by [Motivate](https://www.motivateco.com), 
-a bike share system provider for many major cities in the United States, to uncover bike share usage patterns.  
-The project will explore the bike-sharing data in three large cities: Chicago, New York City, and Washington, DC.
+This project will explore the bike-sharing data in three large cities in the United States: Chicago, New York City, and Washington, DC.  
+The data provided by [Motivate](https://www.motivateco.com), a bike share system provider for many major cities. 
+The data randomly selected for the first six months of 2017 for all three cities.  
+
+**To use this project:** download or clone this repository, from command-line run `python3 bikeshare.py`
 
 ### Files used
 * **bikeshare.py** - main Python script.
