@@ -183,6 +183,8 @@ def user_stats(df):
 
 
 def trip_data(df):
+    """Displays individual trip data."""
+
     df.rename(columns={"Unnamed: 0": ""}, inplace=True)
     row_iterator = df.iterrows()
     view_data = ''
