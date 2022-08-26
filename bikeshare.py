@@ -196,7 +196,7 @@ def trip_data(df):
                     print(next(row_iterator)[1].dropna().to_string())
                     print('-' * 40)
                     view_data = ''
-        except:
+        except StopIteration:
             break
 
 
