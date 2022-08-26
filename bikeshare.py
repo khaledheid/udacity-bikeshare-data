@@ -25,9 +25,11 @@ def get_filters():
     while city.title() not in ['Chicago', 'New York', 'Washington']:
         city = input('Would you like to see data for Chicago, New York, or Washington? ')
 
-    filter_by = input('Would you like to filter the data by month, day, both, or not at all? Type "none" for no time filter. ')
+    filter_by = input(
+        'Would you like to filter the data by month, day, both, or not at all? Type "none" for no time filter. ')
     while filter_by.lower() not in ['month', 'day', 'both', 'none']:
-        filter_by = input('Would you like to filter the data by month, day, both, or not at all? Type "none" for no time filter. ')
+        filter_by = input(
+            'Would you like to filter the data by month, day, both, or not at all? Type "none" for no time filter. ')
 
     if filter_by.lower() in ['month', 'both']:
         # get user input for month (all, january, february, ... , june)
